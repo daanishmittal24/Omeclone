@@ -1,0 +1,37 @@
+{
+  "name": "Autolinker.js",
+  "main": "dist/Autolinker.js",
+  "homepage": "https://github.com/gregjacobs/Autolinker.js",
+  "authors": [
+    "Gregory Jacobs <greg@greg-jacobs.com>"
+  ],
+  "description": "Automatically links URLs, email addresses, mentions (Twitter, Instagram) in a string of text or HTML.",
+  "keywords": [
+    "auto",
+    "link",
+    "autolink",
+    "url",
+    "urls",
+    "anchor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "vendor"
+  ],
+  "version": "1.8.3",
+  "_release": "1.8.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.8.3",
+    "commit": "56fe4a61ced0a2806017b458d75309f4feac250d"
+  },
+  "_source": "https://github.com/gregjacobs/Autolinker.js.git",
+  "_target": "^1.6.2",
+  "_originalSource": "Autolinker.js"
+}
